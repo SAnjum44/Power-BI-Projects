@@ -13,7 +13,7 @@ This project explores customer churn behavior in the telecom industry using SQL 
 - Churn distribution by contract type, age, marital status, and state
 - Churn reason analysis including competitor offerings, support quality, and service usage
 - Feature-wise customer service usage patterns (e.g., Streaming TV, Internet, etc.)
-- 
+ 
 ## 🧼 Data Cleaning Process
 Text columns with nulls, blanks, or irrelevant strings are normalized using SQL CASE statements. Services like Streaming, Support, and Internet are standardized to “Yes/No” or “None” values. This ensures accurate filters and grouping in Power BI visuals.
 
