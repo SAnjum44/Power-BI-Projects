@@ -4,9 +4,9 @@
 This project explores customer churn behavior in the telecom industry using SQL for data extraction, analysis, and cleaning, followed by dashboard visualization in Power BI. It identifies churn drivers, customer segments, and revenue impact to support business decisions.
 
 ## Tools Used
-SQL (MySQL) for exploratory analysis, feature creation, and data normalization
-Power BI for interactive dashboard creation
-DAX for dynamic KPIs and calculated metrics
+**SQL (MySQL)** for exploratory analysis, feature creation, and data normalization
+**Power BI** for interactive dashboard creation
+**DAX** for dynamic KPIs and calculated metrics
 
 ## Key Analytical Areas
 - Gender-based churn percentages
